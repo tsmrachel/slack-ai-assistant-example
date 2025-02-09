@@ -1,0 +1,16 @@
+{
+  "name": "slack-assistant-ai-example",
+  "version": "1.0.0",
+  "description": "This is an Slack Assistant AI Example",
+  "main": "slackAssistantAI.js",
+  "scripts": {
+    "start": "node slackAssistantAI.js"
+  },
+  "author": "racheltan",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/socket-mode": "^2.0.3",
+    "@slack/web-api": "^7.8.0",
+    "dotenv": "^16.4.7"
+  }
+}
